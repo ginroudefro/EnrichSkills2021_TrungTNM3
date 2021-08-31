@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "EnrichSkills2021_TrungTNM3", "EnrichSkills2021_TrungTNM3\EnrichSkills2021_TrungTNM3.dtproj", "{55E89CCF-17E9-4613-BFF7-1EB3231424A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55E89CCF-17E9-4613-BFF7-1EB3231424A3}.Development|Default.ActiveCfg = Development
+		{55E89CCF-17E9-4613-BFF7-1EB3231424A3}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {095A7F60-B034-4CD7-B7FA-384E0DBC9189}
+	EndGlobalSection
+EndGlobal
